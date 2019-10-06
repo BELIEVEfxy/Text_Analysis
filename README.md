@@ -9,12 +9,16 @@
 分析了users和compositions的基本属性，为该网站的作文库建立了基本的画像。
 1. users
 - 对users进行地域分析，可视化用户数量地域分布热力图
-
+![热力图](https://github.com/BELIEVEfxy/text_analysis/blob/master/code/统计分析与应用代码/1.png)
 - 对users进行时间分析，讨论用户随时间变化的情况
+![折线图](https://github.com/BELIEVEfxy/text_analysis/blob/master/code/统计分析与应用代码/3.png)
 2. compositions
 - 对作文按话题进行分类统计，并可视化为漏斗图
+![漏斗图](https://github.com/BELIEVEfxy/text_analysis/blob/master/code/统计分析与应用代码/4.png)
 - 对作文评语进行情感分析，为每个作文打分，统计不同分数段作文的数量情况，可视化为玫瑰图
-- 对作文年份进行统计分析，统计每个年份下不同等级作文的数量，并进行可视化
+![玫瑰图](https://github.com/BELIEVEfxy/text_analysis/blob/master/code/统计分析与应用代码/5.png)
+- 对作文年份进行统计分析，统计每个年份下不同等级作文的数量、最大值、最小值和均值，并进行可视化
+![环形图](https://github.com/BELIEVEfxy/text_analysis/blob/master/code/统计分析与应用代码/7.png)
 
 ### Part 2 文本信息挖掘
 1. 关键词统计
